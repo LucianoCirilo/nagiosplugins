@@ -3,7 +3,7 @@
 ##################################################################
 ##                                              		##
 ##  Luciano Maia Cirilo                        			##
-##  lucianosuper@hotmail.com                   			##
+##  lmcirilo at gmail.com                   			##
 ##  Script varre Windows e diz oq precisa ser monitorado        ##                        
 ##                                              		##      
 ##################################################################
