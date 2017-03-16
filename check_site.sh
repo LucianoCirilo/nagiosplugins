@@ -2,8 +2,11 @@
 
 
 ##################################################################
+##								##
+## This plugin monitor web sites using two key words		##
+##								##
 ##                                                              ##
-## lucianosuper at hotmail.com                                  ##
+## lmcirilo at gmail.com                                        ##
 ##                                                              ##
 ## Monitorar se o Site esta no OK			        ##
 ##                                                              ##
